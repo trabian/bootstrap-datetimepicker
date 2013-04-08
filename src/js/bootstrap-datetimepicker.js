@@ -1279,4 +1279,4 @@
   }
 
 
-})(window.jQuery)
+})(window.jQuery);
